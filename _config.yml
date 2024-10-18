@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hericks
-email: hericks@users.noreply.github.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Unsorted thoughts. 
-baseurl: hericks.github.io
+baseurl:
 url: https://hericks.github.io
+domain: hericks.github.io
 twitter_username: matthiashericks
 github_username: hericks
 
